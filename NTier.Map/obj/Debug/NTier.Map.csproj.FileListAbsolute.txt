@@ -1,0 +1,14 @@
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\bin\Debug\NTier.Map.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\bin\Debug\NTier.Map.dll
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\bin\Debug\NTier.Map.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\bin\Debug\NTier.Core.dll
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\bin\Debug\NTier.Model.dll
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\bin\Debug\NTier.Core.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\bin\Debug\NTier.Model.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\obj\Debug\NTier.Map.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\obj\Debug\NTier.Map.dll
+c:\users\pc\documents\visual studio 2015\Projects\ccaliskan_NTier\NTier.Map\obj\Debug\NTier.Map.pdb
